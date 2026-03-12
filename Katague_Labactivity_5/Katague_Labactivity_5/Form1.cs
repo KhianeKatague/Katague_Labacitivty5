@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Sison_Labact_5
+namespace Katague_Labact_5
 {
     public partial class Form1 : Form
     {
