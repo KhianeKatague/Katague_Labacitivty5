@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{BADE8C7C-22DE-490E-B0CD-8AE2D196D5C0}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Sison_Labact_5</RootNamespace>
-    <AssemblyName>Sison_Labact_5</AssemblyName>
+    <RootNamespace>Katague_Labact_5</RootNamespace>
+    <AssemblyName>Katague_Labact_5</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
