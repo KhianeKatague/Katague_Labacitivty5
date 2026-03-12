@@ -1,4 +1,4 @@
-﻿namespace Sison_Labact_5
+﻿namespace Katague_Labact_5
 {
     partial class Form1
     {
